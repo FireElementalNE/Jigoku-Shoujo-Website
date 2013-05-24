@@ -1,4 +1,4 @@
 Jigoku-Shoujo-Website
 =====================
 
-A perl SCI script to recreate the Jigoku shoujo website!!!
+A perl CGI script to recreate the Jigoku shoujo website!!!
